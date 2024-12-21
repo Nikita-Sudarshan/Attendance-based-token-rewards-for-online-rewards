@@ -8,6 +8,8 @@ The Attendance Token Reward System is a decentralized application (dApp) built o
 
 ## Contract Address
 0x546CbB9f5fe50C8032289CbCa00fb35c5bfD8514
+![image](https://github.com/user-attachments/assets/fa678627-520a-4c6d-994f-506cd1dcb6e1)
+
 
 ## Project Vision
 The vision of the Attendance Token Reward System is to create a transparent and engaging learning environment where students are rewarded for their participation. By leveraging blockchain technology, we aim to enhance accountability and provide a secure method for tracking attendance and rewarding students.
